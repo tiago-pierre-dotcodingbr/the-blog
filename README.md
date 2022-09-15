@@ -1,5 +1,5 @@
-<h1 align="center">🌐 Landing Page</h1>
-<p align="center">Modelo de landing page institucional. 🚀</p>
+<h1 align="center">🌐 The Blog</h1>
+<p align="center">Pequeno Blog para exercitar HTMl e CSS. 🚀</p>
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -9,13 +9,13 @@
 </p>
 
 
-<img src="https://github.com/tiagopierre/landing-page-rachi/blob/main/assets/screen/screencapture-127-0-0-1-5500-index-html-2022-04-26-16_17_32.png?raw=true" alt="screenshot"/>
+<img src="https://github.com/tiago-pierre-dotcodingbr/the-blog/blob/main/assets/screencapture-127-0-0-1-5500-index-html-2022-09-15-14_42_57.png?raw=true" alt="screenshot"/>
 
 
 
 ## 💻 Projeto
 
-Este é um modelo de landing page institucional, desenvolvido para praticar os conhecimentos de HTML e CSS.
+Este é um modelo de blog institucional, desenvolvido para praticar os conhecimentos de HTML e CSS.
 > Status do Projeto: :heavy_check_mark: (_concluído_)
 
 
