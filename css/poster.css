@@ -1,0 +1,21 @@
+.poster-recent-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12.7rem;
+  margin: 6.4rem auto;
+}
+
+.poster-recent-container div:first-child {
+  width: 56.9rem;
+}
+
+.poster-recent-container div:last-child {
+  width: 47.2rem;
+}
+
+.diversi-post {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 30;
+  padding-bottom: 6.758rem;
+}
