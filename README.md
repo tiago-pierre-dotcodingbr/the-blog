@@ -27,10 +27,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 
-## 👨🏻‍💻 Deploy da Aplicação
-
-<img src="https://github.com/tiagopierre/landing-page-rachi/blob/main/assets/screen/Grava%C3%A7%C3%A3o%20de%20Tela%202022-04-26%20%C3%A0s%2016.18.32.gif?raw=true" alt="screenshot"/>
-
 ## 📁 Bibliotecas
 
 - [Scrow Reveal](https://scrollrevealjs.org/) 
